@@ -1,0 +1,9 @@
+{
+  "name": "fitness-data-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fitness analytics utilities for volume, pace, streaks, trends and goals.",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
